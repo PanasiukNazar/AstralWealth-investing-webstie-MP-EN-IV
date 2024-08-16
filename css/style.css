@@ -499,6 +499,7 @@
 .testimonial-carousel .testimonial-img img {
     width: 100px;
     height: 100px;
+    object-fit: cover;
 }
 
 .testimonial-carousel .testimonial-img .btn-square {
